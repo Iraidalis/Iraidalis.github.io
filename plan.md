@@ -13,7 +13,7 @@
 
 2.Resume page
   Header
-    a.Title (Resume)
+    a.Title: Resume
 
   Main content
     a.Pdf of Resume
@@ -44,7 +44,7 @@
 4.Contact me page
 
 Header
-  a.Title(Contact me)
+  a.Title: Contact me
 
 Content
   a.social media
