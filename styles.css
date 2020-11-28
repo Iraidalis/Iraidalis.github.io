@@ -6,6 +6,16 @@
 body{
   color: #291329;
 }
+.resumeh1{
+  background-color: #C5B9B0;
+  font-size: 40px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+    color: #291329;
+}
+.resumepage{
+    background: #F7F3F0;
+}
 .mainpage{
   background: #F7F3F0;
 }
@@ -23,6 +33,7 @@ img {
   background-color: #C5B9B0;
   padding: 5px;
   height: 2000px;
+  font-family: 'Poppins', sans-serif;
   font-size: 30px
 }
 .flower{
